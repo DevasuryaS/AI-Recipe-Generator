@@ -6,7 +6,7 @@ This is an AI Recipe Generator App that can generate a recipe with ingredients a
 
 **1. Ingredients Text Field**: You have to enter all the available ingredients with you with which u want to get a recipe for.
 
-**2. Notes Text Field**: You can mention your prefered style of, available utensils, and other personal preferneces.
+**2. Notes Text Field**: You can mention your preferred style of, available utensils, and other personal preferneces.
 
 **3. "Generate Recipe"** Button: After you have entered all your ingredietns and preferences, click this button to generate a recipe.
 
